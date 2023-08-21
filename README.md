@@ -21,3 +21,5 @@
  - Ports & DIO
  - Interrupts
  - I2C
+# Project Video
+- Link:https://drive.google.com/file/d/1hvUhCJ3bj-ve6Gx3gy7QvVcFIrZ0m1Yl/view?usp=sharing
